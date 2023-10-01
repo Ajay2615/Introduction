@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ajay-gaikwad-97642a149/](https://www.linkedin.com/in/ajay-gaikwad-97642a149/)
 
-- ⚡ Fun fact **My role model is my father as he had worked so hard to educate me but on other hand I am not that hard working but smart working to complete my work efficiently without sweat.....!!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajay gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay gaikwad" height="30" width="40" /></a>
