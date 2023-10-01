@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay2615](https://github.com/Ajay2615)
 
-- 💬 Ask me about **Python, Machine Learning, Pandas, Numpy, Sklearn, Tensorflow, ANN, CNN, RNN, SQL, Tableau, C++, Data Structures and Algorithms, Microsoft Excel, AutoCAD, OpenCV**
+- 💬 Ask me about **Python, Machine Learning, Pandas, Numpy, Sklearn, Tensorflow, ANN, CNN, RNN, SQL, Tableau, C++, Data Structures and Algorithms, Advance Excel, AutoCAD, OpenCV, Power BI **
 
 - 📫 How to reach me **gaikwad.ajay6220@gmail.com**
 
